@@ -31,9 +31,7 @@ You can try the app here:[open app](https://diabetic-prediction-gzyh99vptzfju8zk
 
 **1.** Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
-
+git clone https://github.com/Rabindrajena/diabetic-prediction.git
 
 **2.** Create and activate a Python 3.11 virtual environment:
 
@@ -82,4 +80,4 @@ streamlit run app.py
 
 ### Author
 
-**Rabindra Jena**
+**Rabindra Jena** Github: https://github.com/Rabindrajena
