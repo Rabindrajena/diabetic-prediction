@@ -41,6 +41,7 @@ You can try the app here: [open app](https://diabetic-prediction-gzyh99vptzfju8z
 
 * Clean, modern UI with custom styling
 
+---
 
 ### Installation (Local)
 
@@ -69,6 +70,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+---
 
 ### Usage
 
@@ -82,6 +84,8 @@ streamlit run app.py
 
 * ⚠️ High Risk with probability percentage
 
+---
+
 ### Files
 
 * `app.py` – Main Streamlit app
@@ -91,6 +95,8 @@ streamlit run app.py
 * `requirements.txt` – Package dependencies
 
 * `runtime.txt` – Python version for deployment
+
+---
 
 ### Notes
 
